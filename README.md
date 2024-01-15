@@ -6,7 +6,7 @@ This repository contains the source code for the Hoodie 3D Showcase website, off
 
 -  [Folder Structure](#folder-structure)
 -  [Usage](#usage)
--  [Gif](#Gif)
+-  [Media](#Media)
 -  [Contributing](#contributing)
 -  [Dependencies](#dependencies)
 
@@ -30,7 +30,7 @@ cd hoodie-showcase
 
 2. Open the index.html file in a web browser to view the website.
 
-## Gif
+## Media
 
 ![Hoodie-Showcase](./img/Hoodie-Showcase.gif)
 ![hoodie-showcase_1](./img/hoodie-showcase_1.png)
