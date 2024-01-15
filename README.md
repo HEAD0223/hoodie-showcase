@@ -32,7 +32,9 @@ cd hoodie-showcase
 
 ## Gif
 
-![Gallery-Draggable](./img/Gallery-Draggable.gif)
+![Hoodie-Showcase](./img/Hoodie-Showcase.gif)
+![hoodie-showcase_1](./img/hoodie-showcase_1.png)
+![hoodie-showcase_2](./img/hoodie-showcase_2.png)
 
 ## Contributing
 
