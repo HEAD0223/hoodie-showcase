@@ -1,5 +1,10 @@
 # Hoodie 3D Showcase Project
 
+![Showcase](https://img.shields.io/badge/Showcase-Hoodie_3D-brightgreen)
+![Self Development](https://img.shields.io/badge/Project-Self_Development-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+[![Working on](https://img.shields.io/badge/Working_on-Chrome-informational?logo=google-chrome&logoColor=white)](https://head0223.github.io/hoodie-showcase/)
+
 This repository contains the source code for the Hoodie 3D Showcase website, offering an immersive display of hoodie design.
 
 ## Table of Contents
